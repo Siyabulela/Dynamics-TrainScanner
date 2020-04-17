@@ -1,0 +1,13 @@
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\bin\Debug\TrainScanner.exe.config
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\bin\Debug\TrainScanner.exe
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\bin\Debug\TrainScanner.pdb
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.csprojAssemblyReference.cache
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.Form1.resources
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.Properties.Resources.resources
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.csproj.GenerateResource.cache
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.csproj.CoreCompileInputs.cache
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.exe
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.pdb
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\bin\Debug\RestSharp.dll
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\bin\Debug\RestSharp.xml
+C:\Users\siyab\Source\Repos\TrainScanner\TrainScanner\obj\Debug\TrainScanner.csproj.CopyComplete
